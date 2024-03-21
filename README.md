@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Khytron
-- I'm a 15 year old high-schooler as of 2021.
+- I'm a 18 year old unemployed self-taught programmer as of 2024.
 - 👀 I’m interested in getting into Software Engineering.
-- 🌱 I’m currently learning Python/Javascript.
-- 📫 How to reach me ... Whatsapp +601169578807
+- 🌱 I’m currently learning Ruby
+- 📫 How to reach me ... Whatsapp +601161666534
 
 <!---
 Khytron/Khytron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
