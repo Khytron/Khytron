@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khytron
 - I'm a 19 year old self-taught game developer as of 2025.
-- 👀 I’m interested in Computer Science, Arts, Music, Chess, Games
+- 👀 I’m interested in Computer Science, Games, Music, Arts, Chess, etc..
 - 🌱 I’m currently learning Godot, Aseprite and Audacity.
 - 📫 How to reach me ... Whatsapp +601173140563
 
