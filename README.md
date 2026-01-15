@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Khytron
 - I'm a 20 year old self-taught programmer and year 1 CS student at University of Malaya
-- 👀 I’m interested in Computer Science, Games, Music, Arts, Chess, etc..
-- 🌱 I’m currently learning Java, Java Swing, Object-Oriented Programming, Data Structures and Algorithms
+- 👀 I’m interested in Computer Science, Games, Music, Arts, and Chess
+- 🌱 I’m currently learning Java, Javascript with React, Object-Oriented Programming and Data Structures and Algorithms
 - 📖 My hobby is deploying random projects that pop into my mind, online chess, e-learning, leetcode, studying german on duolingo, and occasionally single player games to calm my mind 
 - 📫 How to reach me ... Whatsapp +601173140563
 
